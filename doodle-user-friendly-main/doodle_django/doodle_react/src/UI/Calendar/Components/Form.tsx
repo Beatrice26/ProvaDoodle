@@ -31,7 +31,7 @@ export const FormComponent = () => {
       setFormVisible(false)
       setCalendarVisible(true);
     } else {
-      alert('Must complet all fields');
+      alert('CIAO AMICI');
     }
   }
 
